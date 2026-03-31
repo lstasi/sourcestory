@@ -25,7 +25,7 @@
 |--------------------|---------|-------------------------------------------------|
 | **tree-sitter**    | ≥ 0.22  | Language-agnostic AST parsing                   |
 | **tree-sitter-languages** | ≥ 1.10 | Pre-built grammars (Python, JS, TS, Go, Rust, C, Java) |
-| **gitpython**      | ≥ 3.1   | Clone remote Git repositories as input sources  |
+| **gitpython**      | ≥ 3.1.33 | Clone remote Git repositories as input sources  |
 
 ### LLM Inference
 
