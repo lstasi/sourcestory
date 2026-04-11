@@ -14,15 +14,15 @@ Check off items as they are completed.
 
 ---
 
-## Phase 1 — Project Scaffolding
+## Phase 1 — Project Scaffolding ✅
 
-- [ ] Create `pyproject.toml` with project metadata, dependencies, and entry point
-- [ ] Create the `sourcestory/` Python package skeleton (`__init__.py`, `cli.py`)
-- [ ] Set up `tests/` directory with a basic `conftest.py`
-- [ ] Configure **Ruff** for linting and formatting (add `ruff.toml` or `[tool.ruff]` in `pyproject.toml`)
-- [ ] Configure **mypy** for type checking
-- [ ] Add **pre-commit** config (`.pre-commit-config.yaml`)
-- [ ] Add GitHub Actions CI workflow (`.github/workflows/ci.yml`)
+- [x] Create `pyproject.toml` with project metadata, dependencies, and entry point
+- [x] Create the `sourcestory/` Python package skeleton (`__init__.py`, `cli.py`)
+- [x] Set up `tests/` directory with a basic `conftest.py`
+- [x] Configure **Ruff** for linting and formatting (add `[tool.ruff]` in `pyproject.toml`)
+- [x] Configure **mypy** for type checking
+- [x] Add **pre-commit** config (`.pre-commit-config.yaml`)
+- [x] Add GitHub Actions CI workflow (`.github/workflows/ci.yml`)
   - Lint (ruff)
   - Type-check (mypy)
   - Tests (pytest with coverage gate ≥ 80 %)
